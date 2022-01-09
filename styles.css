@@ -49,7 +49,7 @@ body {
   background-image: none;
 }
 .hover-img:hover {
-  background: url("icon-view.svg") hsl(178, 100%, 50%) no-repeat 50%
+  background: url("./icon-view.svg") hsl(178, 100%, 50%) no-repeat 50%
     50%;
   background-size: 20% 20%;
   opacity: 0.6;
